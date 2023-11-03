@@ -1,5 +1,5 @@
 <div class="copyright mt_10">
-    Copyright &copy; Morshedul Arefin. All Rights Reserved.
+    Copyright &copy; SM Emon Islam. All Rights Reserved.
 </div>
 </div>
 
